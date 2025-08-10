@@ -16,6 +16,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:justribobruno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojustribo/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491139016916?text=Hola%20Bruno,%20vi%20tu%20GitHub%20y%20me%20gustaría%20contactarte.)
 
 ---
 
